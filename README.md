@@ -1,0 +1,2 @@
+- Each folder in this repository is a different media outlet.
+- Each folder contains 3 files: a python script, a CSV file of article URL's, and a CSV file of the content each article contains.
